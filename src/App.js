@@ -52,7 +52,7 @@ function App() {
     </Block>
     <Spacer size={24} />
     <Block title={'Skills'}>
-      Javascript, HTML, CSS, React, Git, Webpack
+      Javascript, HTML, CSS, React, Git, Jest, Github Actions
     </Block>
   </Layout>;
 }
